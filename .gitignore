@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos locales / datos
+todos.json
+
+# Sistema
+.DS_Store
+Thumbs.db
